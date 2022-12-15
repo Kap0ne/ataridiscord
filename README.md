@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hello there, I am <strong>eftw</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+    Hello there, I am <strong>atari</strong>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h2>
 <p align="center">
     Lua & C# | Learning C++
@@ -24,15 +24,15 @@
 </p>
 <hr/>
 <p align="center">
-    <a href="https://github.com/eftw/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=eftw&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/ataridiscord/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ataridiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
   </a> 
-  <a href="https://github.com/eftw/">
-        <img src="https://github-readme-stats.vercel.app/api?username=eftw&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/ataridiscord/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ataridiscord&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
-<a href="https://github.com/eftw/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eftw&theme=gruvbox&langs_count=8&layout=compact" />
+<a href="https://github.com/ataridiscord/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataridiscord&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 <br>
 </p>
