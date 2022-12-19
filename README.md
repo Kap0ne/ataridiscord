@@ -8,7 +8,7 @@
     <summary><b>Discord Activity</b></summary>
     <br>
 <a href="https://discord.com/users/984605209785425990">
-      <img src="https://lanyard.cnrad.dev/api/984605209785425990"/>
+        <img src="https://discord.c99.nl/widget/theme-4/984605209785425990.png"/>
 </a>
 </details>
 &nbsp;
